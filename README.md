@@ -14,7 +14,7 @@
 - 💬 Do you have a Question **Ask me**
 
 - 📫 How to reach me **permin1501424@gmai.com**
-- 🚩Active on Telegram **https://t.me/per_777 **
+- 🚩Active on Telegram https://t.me/per_777 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
