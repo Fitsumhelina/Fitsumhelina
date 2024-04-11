@@ -8,16 +8,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fitsumhelina" alt="fitsumhelina" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Full Stack dev. , backend technology**
 
-- 🌱 I’m currently learning **framework, database, cyber security**
+- 🌱 I’m currently learning **frameworks, database, cyber security**
 
-- 👯 I’m looking to collaborate on **web and web app dev.**
+- 👯 I’m looking to collaborate on **web and web app dev. , Ui/Ux design**
 
 - 💬 Do you have a Question **Ask me**
 
 - 📫 How to reach me **permin1501424@gmai.com**
-- 🚩Active on Telegram https://t.me/per_777 
+- 🚩Active on Telegram **https://t.me/per_777**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
