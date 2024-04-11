@@ -1,4 +1,4 @@
-<body style="background-color: red; " >
+<body style="background-color: red;" >
   
 
 <h1 align="center">ola! 👋, I'm Fitsum</h1>
