@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href ="https://t.me/per_777"  target="blank"> <img align="center"
-src="https://purepng.com/public/uploads/medium/purepng.com-circled-telegram-logologosiconsflat-designcircled-logoscircled-iconsiconflatminimalistlogo-design-311519936355fllvh.png" alt="contact me on telegram " height="40" width="40"/> </a>
-<a href ="https://www.sololearn.com/en/profile/29539913"  target="blank"> <img align="center"
-src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" alt="my sololearn account" height="40" width="40"/> </a>
+<a href ="https://t.me/per_777" target="blank"><img align="center"
+src="https://purepng.com/public/uploads/medium/purepng.com-circled-telegram-logologosiconsflat-designcircled-logoscircled-iconsiconflatminimalistlogo-design-311519936355fllvh.png" alt="contact me on telegram " height="40" width="40" /></a>
+<a href ="https://www.sololearn.com/en/profile/29539913"  target="blank"><img align="center"
+src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" alt="my sololearn account" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fitsum-helina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fitsum-helina" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvesdhqlbuk160ih6t59gta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvesdhqlbuk160ih6t59gta" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/permin1501424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="permin1501424" height="40" width="40" /></a>
