@@ -20,7 +20,6 @@
 <p align="left">
 <a href ="https://t.me/per_777"  target="blank"> <img align="center"
 src="https://www.vhv.rs/dpng/d/74-747658_telegram-icon-svg-hd-png-download.png" alt="contact me on telegram  " height="40" width="40"/> </a>
-  
 <a href ="https://www.sololearn.com/en/profile/29539913"  target="blank"> <img align="center"
 src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" alt="my sololearn account " height="40" width="40"/> </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fitsum-helina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fitsum-helina" height="40" width="40" /></a>
