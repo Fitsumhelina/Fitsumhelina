@@ -1,4 +1,4 @@
-![image](https://github.com/Fitsumhelina/Fitsumhelina/assets/151903384/9560e321-e534-43a7-8176-19737a90eea5)<h1 align="center">ola! 👋, I'm Fitsum</h1>
+<h1 align="center">ola! 👋, I'm Fitsum</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
