@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href ="https://th.bing.com/th/id/OIP.-iQO-EK47maUTT-3U8TI8QAAAA?w=394&h=396&rs=1&pid=ImgDetMain" 
-alt="my sololearn account " height="40" width="50" style=" border-radius: 50;" /> </a>
+<a href ="https://play-lh.googleusercontent.com/WBrHw919tEkOCzloYHPIRU3P2B_H9JBuQT3odsQ7_EZlsTDECgKtk2FTfd8w_e2kSag" 
+alt="my sololearn account " height="30" width="40"  /> </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fitsum-helina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fitsum-helina" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvesdhqlbuk160ih6t59gta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvesdhqlbuk160ih6t59gta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/permin1501424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="permin1501424" height="30" width="40" /></a>
