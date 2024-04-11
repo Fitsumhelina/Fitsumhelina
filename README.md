@@ -1,4 +1,4 @@
-<h1 align="center">ola! 👋, I'm Fitsum</h1>
+![image](https://github.com/Fitsumhelina/Fitsumhelina/assets/151903384/9560e321-e534-43a7-8176-19737a90eea5)<h1 align="center">ola! 👋, I'm Fitsum</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href ="https://t.me/per_777"  target="blank"> <img align="center"
-src="[https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png](https://cdn2.iconfinder.com/data/icons/telegram/154/telegram-ui-sign-round-512.png)" alt="contact me on telegram  " height="40" width="40"/> </a>
+src="https://www.vhv.rs/dpng/d/74-747658_telegram-icon-svg-hd-png-download.png" alt="contact me on telegram  " height="40" width="40"/> </a>
   
 <a href ="https://www.sololearn.com/en/profile/29539913"  target="blank"> <img align="center"
 src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" alt="my sololearn account " height="40" width="40"/> </a>
