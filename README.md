@@ -21,6 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href ="https://linktr.ee/fitsumhelina?utm_source=linktree_profile_share&ltsid=8109b772-c8a9-4a17-a32c-29c322e0ea8f" target="blank"><img align="center"
+src="https://ww1.freelogovectors.net/wp-content/uploads/2022/01/linktree-logo-freelogovectors.net_.png?lossy=1&ssl=1" alt="contact me on telegram " height="40" width="40" /></a>
 <a href ="https://t.me/per_777" target="blank"><img align="center"
 src="https://purepng.com/public/uploads/medium/purepng.com-circled-telegram-logologosiconsflat-designcircled-logoscircled-iconsiconflatminimalistlogo-design-311519936355fllvh.png" alt="contact me on telegram " height="40" width="40" /></a>
 <a href ="https://www.sololearn.com/en/profile/29539913"  target="blank"><img align="center"
