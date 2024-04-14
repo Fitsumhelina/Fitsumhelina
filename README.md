@@ -3,6 +3,164 @@
 <h1 align="center">ola! 👋, I'm Fitsum</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 (https://visitcount.itsvg.in/api?id=fitsumhelina&icon=1&color=1)](https://visitcount.itsvg.in)
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="136.39999999999998px"
+  height="23px"
+  fill="none"
+>
+<foreignObject width="136.39999999999998px" height="23px">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+.pill{
+    display: flex;
+    background-color: transparent;
+    width: max-content;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 4px;
+}
+.pill-label{
+    display: flex;
+    width: max-content;
+    padding: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    font-size: 12px;
+}
+.pill-icon{
+  margin-right: 4px;
+  width: 14px;
+  height: 14px;
+}
+.pill-count{
+    color: white;
+    width: max-content;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    padding: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+.cyan {
+  color: rgb(22 78 99);
+  background-color: rgb(165 243 252);
+}
+.blue {
+  color: rgb(30 58 138);
+  background-color: rgb(191 219 254);
+}
+.amber {
+  color: rgb(120 53 15);
+  background-color: rgb(253 230 138);
+}
+.green {
+  color: rgb(20 83 45);
+  background-color: rgb(187 247 208);
+}
+.red {
+  color: rgb(127 29 29);
+  background-color: rgb(254 202 202);
+}
+.rose {
+  color: rgb(136 19 55);
+  background-color: rgb(254 205 211);
+}
+.indigo {
+  color: rgb(49 46 129);
+  background-color: rgb(199 210 254);
+}
+.orange {
+  color: rgb(136 19 55);
+  background-color: rgb(254 215 170);
+}
+.emerald {
+  color: rgb(6 78 59);
+  background-color: rgb(167 243 208);
+}
+.teal {
+  color: rgb(19 78 74);
+  background-color: rgb(153 246 228);
+}
+.pink {
+  color: rgb(131 24 67);
+  background-color: rgb(251 207 232);
+}
+.fuchsia {
+  color: rgb(112 26 117);
+  background-color: rgb(245 208 254);
+}
+.neutral {
+  color: rgb(23 23 23);
+  background-color: rgb(229 229 229);
+}
+.dark-cyan {
+  background-color: rgb(22 78 99);
+  color: rgb(165 243 252);
+}
+.dark-blue {
+  background-color: rgb(30 58 138);
+  color: rgb(191 219 254);
+}
+.dark-amber {
+  background-color: rgb(120 53 15);
+  color: rgb(253 230 138);
+}
+.dark-green {
+  background-color: rgb(20 83 45);
+  color: rgb(187 247 208);
+}
+.dark-red {
+  background-color: rgb(127 29 29);
+  color: rgb(254 202 202);
+}
+.dark-rose {
+  background-color: rgb(136 19 55);
+  color: rgb(254 205 211);
+}
+.dark-indigo {
+  background-color: rgb(49 46 129);
+  color: rgb(199 210 254);
+}
+.dark-orange {
+  background-color: rgb(136 19 55);
+  color: rgb(254 215 170);
+}
+.dark-emerald {
+  background-color: rgb(6 78 59);
+  color: rgb(167 243 208);
+}
+.dark-teal {
+  background-color: rgb(19 78 74);
+  color: rgb(153 246 228);
+}
+.dark-pink {
+  background-color: rgb(131 24 67);
+  color: rgb(251 207 232);
+}
+.dark-fuchsia {
+  background-color: rgb(112 26 117);
+  color: rgb(245 208 254);
+}
+.dark-neutral {
+  background-color: rgb(23 23 23);
+  color: rgb(229 229 229);
+}
+</style>
+<div class="pill">
+<span class="pill-label dark-blue">
+<svg xmlns="http://www.w3.org/2000/svg" class="pill-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path name="bar" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+</svg>
+Profile Views</span>
+<span class="pill-count blue" > 2 </span>
+</div>
+</div>
+</foreignObject>
+</svg>![api](https://github.com/Fitsumhelina/Fitsumhelina/assets/151903384/4601a1a1-fb48-48e0-97b2-077412cf5780)
 # 💫 About Me:
 <br><br>- 🔭 I’m currently working on **Full Stack dev. , backend technology**<br><br>- 🌱 I’m currently learning **frameworks, database, cyber security**<br><br>- 👯 I’m looking to collaborate on **web and web app dev. , Ui/Ux design**<br><br>- 💬 Do you have a Question **Ask me**<br><br>- 📫 How to reach me **permin1501424@gmai.com**<br>- 🚩Active on Telegram **https://t.me/per_777**
 
