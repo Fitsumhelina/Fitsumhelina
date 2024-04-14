@@ -2,7 +2,7 @@
 
 <h1 align="center">ola! 👋, I'm Fitsum</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-[![](https://visitcount.itsvg.in/api?id=fitsumhelina&icon=1&color=1)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=fitsumhelina&icon=1&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
 <br><br>- 🔭 I’m currently working on **Full Stack dev. , backend technology**<br><br>- 🌱 I’m currently learning **frameworks, database, cyber security**<br><br>- 👯 I’m looking to collaborate on **web and web app dev. , Ui/Ux design**<br><br>- 💬 Do you have a Question **Ask me**<br><br>- 📫 How to reach me **permin1501424@gmai.com**<br>- 🚩Active on Telegram **https://t.me/per_777**
 
