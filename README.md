@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
 
 # 💫 About Me:
-<br><br>- 🔭 I’m currently working on **Full Stack dev. , backend technology**<br><br>- 🌱 I’m currently learning **frameworks, database, cyber security**<br><br>- 👯 I’m looking to collaborate on **web and web app dev. , Ui/Ux design**<br><br>- 💬 Do you have a Question **Ask me**<br><br>- 📫 How to reach me **permin1501424@gmai.com**<br>- 🚩Active on Telegram **https://t.me/per_777**
+<br><br>- 🔭 I’m currently working on **Full Stack dev. , backend technology**<br><br>- 🌱 I’m currently learning **frameworks, database, cyber security**<br><br>- 👯 I’m looking to collaborate on **web and web app dev. , Ui/Ux design**<br><br>- 💬 Do you have a Question **Ask me**<br><br>- 📫 How to reach me **dev.fitsum@gmai.com**<br>- 🚩Active on Telegram **https://t.me/per_777**
 
 
 ## 🌐 Socials:
