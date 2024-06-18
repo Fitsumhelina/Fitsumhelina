@@ -22,6 +22,7 @@
 
 
 <div align="center">
+  <br>
   <hr>
     <h3>🌐 How to reach me ? </h1>
   
