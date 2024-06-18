@@ -2,7 +2,6 @@
 
 <h1 align="center">ola! 👋, I'm perfecto</h1>
 <hr>
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+fitsum+helina;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;+passionate+mern+stack+developer;and+software+engineer;based+on+ethiopia;fell+free+to+contact+me;we+can+do+amazing+work's+together;+Enjoy+my+github+;" alt="Typing SVG">
@@ -11,9 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
 
 
+<img align="right" alt="Coding" width="250" height="200"  src="https://th.bing.com/th/id/R.508dbd3dac85b0fb750ea67e447731f6?rik=bJnsmufXqmravg&pid=ImgRaw&r=0">
 
-<div style="text-align: left;" align="center">
-    <h1>💫 About Me:</h1>
+<div style="text-align: left;" >
+    <h3 >💫 About Me: </h3>
     <p>- 🔭 I’m currently working on <strong>Full Stack development </strong></p>
     <p>- 🌱 passionate to work <strong>together</strong></p>
     <p>- 👯 I’m looking to collaborate on <strong>website development & Ui/Ux design</strong></p>
