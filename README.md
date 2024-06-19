@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
 
 
-<img align="right" alt="Coding" width="250" height="200"  src="https://th.bing.com/th/id/R.508dbd3dac85b0fb750ea67e447731f6?rik=bJnsmufXqmravg&pid=ImgRaw&r=0">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" align="right" alt="Coding" width="250" height="200" >
 
 <div style="text-align: left;" >
     <h3 >💫 About Me: </h3>
