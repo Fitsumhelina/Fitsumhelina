@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Fitsum+Helina.;+And+Welcome+to+My+Github+Profile!;I+Have+Over+1+years+of+Programming+experience;+Passionate+Full+stack+developer+and+Software+Engineer;Based+on+Recent+Technologies+and+Frameworks;Fell+Free+to+contact+me+About+Your+Project;We+can+do+amazing+work's+Together;+until+then+Enjoy+my+github+;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Fitsum+Helina.;+And+Welcome+to+My+Github+Profile!;I+Have+Over+<1+years+of+Programming+experience;+Passionate+Full+stack+developer+and+Software+Engineer;Based+on+Recent+Technologies+and+Frameworks;Fell+Free+to+contact+me+About+Your+Project;We+can+do+amazing+work's+Together;+until+then+Enjoy+my+github+;" alt="Typing SVG">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
