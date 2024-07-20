@@ -29,11 +29,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
     <h3>🌐 How to reach me ? </h1>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fitsum-helina) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/per_777)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:dev.fitsum@gmai.com)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fitsumhelina) 
-
+ 
+<div>
+          <a href="https://github.com/Fitsumhelina" style="margin-right: "80px";" ><img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="Github" width="32" height="32" /></a>
+          <a href="https://www.linkedin.com/in/fitsum-helina-57164828a/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" width="32" height="32" /></a>
+          <a href="https://t.me/fitsumhelina"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="32" height="32" /></a>
+          <a href="https://wa.me/251904377900"><img src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" alt="Whatsapp" width="32" height="32" /></a>
+</div>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
