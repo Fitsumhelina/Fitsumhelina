@@ -31,7 +31,6 @@
   
  
 <div>
-          <a href="https://github.com/Fitsumhelina" style="margin-right: "80px";" ><img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="Github" width="32" height="32" /></a>
           <a href="https://www.linkedin.com/in/fitsum-helina-57164828a/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" width="32" height="32" /></a>
           <a href="https://t.me/fitsumhelina"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="32" height="32" /></a>
           <a href="https://wa.me/251904377900"><img src="https://cdn-icons-png.flaticon.com/128/15707/15707820.png" alt="Whatsapp" width="32" height="32" /></a>
