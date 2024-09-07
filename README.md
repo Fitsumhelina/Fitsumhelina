@@ -5,7 +5,6 @@
 <h1 align="center">ola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm perfecto</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Fitsum+Helina.;+And+Welcome+to+My+Github+Profile;+I+Have+Over+>1+years+of+Programming+experience;+Passionate+Full+stack+developer+and+Software+Engineer;Based+on+Recent+Technologies+and+Frameworks;Fell+Free+to+contact+me+About+Your+Project;We+can+do+amazing+work's+Together;+until+then+Enjoy+my+github+;" alt="Typing SVG">
 </p>
