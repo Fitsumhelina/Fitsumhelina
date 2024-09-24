@@ -19,7 +19,7 @@
     <p>- 🔭 I’m currently working on <strong>Full Stack development </strong></p>
     <p>- 🌱 passionate to work <strong>together</strong></p>
     <p>- 👯 I’m looking to collaborate on <strong>website development & Ui/Ux design</strong></p>
-    <p>- 👨‍💻 <strong>Website: </strong>[ fitsumhelina.me](https://fitsumhelina.me/) </p>
+    <p>- 👨‍💻 <strong>Website: </strong> https://fitsumhelina.me/ </p>
     <p>- 💬 if you have an idea bring it up here and  <strong>let's talk </strong></p>
 </div>
 
