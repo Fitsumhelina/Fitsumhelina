@@ -15,7 +15,8 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 
 
 <div align="center">
- <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > Statistics
+ 
+# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -23,6 +24,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 </div>
 
 <div align="center">
+ 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | Category        | Skills        |
@@ -61,7 +63,8 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 <br>
 
 <div>
-##Let's colab 🚀 ,
+ 
+## Let's colab 🚀 ,
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
