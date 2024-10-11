@@ -64,9 +64,9 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 
 <div>
  
-## Let's colab 🚀 ,
+## Contact Me  🚀 ,
 
-🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+🌟 I'm always open to collaboration and Work  on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on the socials below!
 
 <div>
   
