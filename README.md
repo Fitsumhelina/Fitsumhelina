@@ -8,14 +8,14 @@
 
 <h4 style="font-size : 20px;">I'm a self-taught web app developer from Ethiopia, passionate about solving problems in a digital way.I enjoy bringing ideas to life through technology and am always focused on finding creative solutions when challenges arise.I excel in communication and love collaborating with teams to make things happen. I'm constantly learning and expanding my skills.
 
-Want to know more? Check out my [resume](link)! </h4>
+Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEYce5L956NcbJpYvWvGAD7HR3t5L/view?usp=drive_link)! </h4>
 <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br>
 
 
 <div align="center">
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > Statistics
+ <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > Statistics
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -61,7 +61,7 @@ Want to know more? Check out my [resume](link)! </h4>
 <br>
 
 <div>
-## Let's colab 🚀 ,
+##Let's colab 🚀 ,
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
