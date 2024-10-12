@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
 
-<h4 style="font-size : 20px;">I'm a self-taught web app developer from Ethiopia, passionate about solving problems in a digital way.I enjoy bringing ideas to life through technology and am always focused on finding creative solutions when challenges arise.I excel in communication and love collaborating with teams to make things happen. I'm constantly learning and expanding my skills.
+<h4 style="font-size : 20px;">I'm a self-taught web app developer from Ethiopia, passionate about solving problems in a digital way.I enjoy bringing ideas to life through technology.I excel in communication and love collaborating with teams to make things happen. I'm constantly learning and expanding my skills.
 
-Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEYce5L956NcbJpYvWvGAD7HR3t5L/view?usp=drive_link)! </h4>
+Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEYce5L956NcbJpYvWvGAD7HR3t5L/view?usp=drive_link) ! </h4>
 <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br>
