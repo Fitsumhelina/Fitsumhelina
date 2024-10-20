@@ -37,7 +37,6 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 | Design Tools    |![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
 
 </div>
-
 <div align="center">
 <h2> My Projects 📁</h2>
 <a href="https://github.com/Fitsumhelina/Portfolio">
