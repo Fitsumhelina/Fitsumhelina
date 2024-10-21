@@ -16,7 +16,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Robsan Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark) |
+| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![fitsum-helina](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark) |
 </div>
 
 <div align="center">
