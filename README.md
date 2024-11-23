@@ -1,7 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fitsumhelina&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fitsumhelina)
 
 <h1 align="center">ola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm perfecto</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
 
 <h4 style="font-size : 20px;">I'm a self-taught web app developer from Ethiopia, passionate about solving problems in a digital way.I enjoy bringing ideas to life through technology.I excel in communication and love collaborating with teams to make things happen. I'm constantly learning and expanding my skills.
