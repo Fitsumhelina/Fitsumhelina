@@ -8,7 +8,6 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1q4tJEY
 <br>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br>
-
 <div align="center">
  
 # Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
