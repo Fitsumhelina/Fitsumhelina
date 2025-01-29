@@ -54,7 +54,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
 </table>
 
 <h4>Tools</h4>
-<table width="100%" style="table-layout: fixed;">
+<table width="200%" style="table-layout: fixed;">
   <tr>
     <td style="width: 10%;"><img alt="GitHub" height="64px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"></td>
     <td style="width: 10%;"><img alt="Git" height="64px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
@@ -65,42 +65,39 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
     <td style="width: 10%;"><img alt="Vercel" height="64px" src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc"></td>
     <td style="width: 10%;"><img alt="Horku" height="64px" src="https://imgs.search.brave.com/TMj7RdxJPIsmJC9KaGH1M_YwCRg1rd4bHDWzJsqFIy4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvaGVyb2t1/LjBkMzUyNTgwYjU2/Mi5wbmc"></td>
     <td style="width: 10%;"><img alt="Netlify" height="64px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></td>
-
-  </tr>
-</table>
-
-<h4>Design Tools</h4>
-<table width="100%" style="table-layout: fixed;">
-  <tr>
-    <td style="width: 10%;"><img alt="Canva" height="64px" src="https://cdn.worldvectorlogo.com/logos/canva.svg"></td>
-    <td style="width: 10%;"><img alt="Figma" height="64px" src="https://cdn.worldvectorlogo.com/logos/figma.svg"></td>
-    <td style="width: 10%;"><img alt="Sketch" height="64px" src="https://cdn.worldvectorlogo.com/logos/sketch-logo.svg"></td>
-    <td style="width: 10%;"><img alt="Adobe XD" height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></td>
-  </tr>
-</table>
-
-
-
-</div>
-
-
-
-<br>
-<br>
-
-<div>
- 
-## Contact Me  🚀 ,
-
-🌟 I'm always open to collaboration and Work  on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on the socials below!
-
-<div>
+      <td style="width: 10%;"><img alt="Canva" height="64px" src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw"></td>
+    <td style="width: 10%;"><img alt="Figma" height="64px" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg"></td>
+    <td style="width: 10%;"><img alt="Adobe Ps" height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></td>
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fitsum-helina-57164828a/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:dev.fitsum@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/fitsumhelina)
-       
+
+  </tr>
+</table>
+
+
+  
+
+
+
+
 </div>
+
+
+
+<br>
+<br>
+<h2>Contact Me 🚀</h2>
+
+<p>🌟 I'm always open to collaboration and working on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on the socials below!</p>
+<p style="text-align: center; font-style: italic; margin-top: 20px;">Let's connect and make something amazing together! 🌟</p>
+
+<div style="display: flex; gap: 25px; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" height="50px" onclick="window.location.href='https://www.linkedin.com/in/fitsum-helina-57164828a/';" style="cursor: pointer;" />
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50px" onclick="window.location.href='mailto:dev.fitsum@gmail.com';" style="cursor: pointer;" />
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="Telegram" height="50px" onclick="window.location.href='https://t.me/fitsumhelina';" style="cursor: pointer;" />
+</div>
+
 
 <br>
 
