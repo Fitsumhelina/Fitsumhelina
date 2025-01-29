@@ -1,4 +1,8 @@
+<div align="center"> 
+ 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fitsumhelina&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fitsumhelina)
+</div>
+
 <h1 align="center">ola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm perfecto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" /> </p>
 
@@ -21,21 +25,62 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
  
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-| Category        | Skills        |
-|-----------------|---------------|
-| Frameworks| ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) |
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Postgres-880000?style=for-the-badge&logo=Postgres&logoColor=white" alt="Postgres Badge" /> |
-| Services & Tools|  <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white" title="Markdown" alt="Markdown"/>  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  |
-| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
-| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> |
-| Design Tools    |![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+
+<h4>Programming Languages</h4>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td style="width: 10%;"><img alt="HTML" height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
+    <td style="width: 10%;"><img alt="CSS" height="64px" src="https://imgs.search.brave.com/aEGiTSo22dl3ju1IuSx7-Ex0GTyZ0ELtoLb2u8BWqBY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9ODAwLGhl/aWdodD0sZml0PXNj/YWxlLWRvd24sZ3Jh/dml0eT1hdXRvLGZv/cm1hdD1hdXRvL2h0/dHBzOi8vZGV2LXRv/LXVwbG9hZHMuczMu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL2Fy/dGljbGVzLzdqMzUz/djh4ZTFoODYxdWM1/aTUzLnBuZw"></td>
+    <td style="width: 10%;"><img alt="JavaScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
+    <td style="width: 10%;"><img alt="C++" height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg"></td>
+    <td style="width: 10%;"><img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></td>
+    <td style="width: 10%;"><img alt="TypeScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></td>
+    <td style="width: 10%;"><img alt="Java" height="64px" src="https://cdn.worldvectorlogo.com/logos/java-2.svg"></td>
+  </tr>
+</table>
+
+<h4>Frameworks & Databases </h4>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td style="width: 10%;"><img alt="React" height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></td>
+    <td style="width: 10%;"><img alt="Node.js" height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></td>
+    <td style="width: 10%;"><img alt="MongoDB" height="64px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></td>
+    <td style="width: 10%;"><img alt="Firebase" height="64px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></td>
+    <td style="width: 10%;"><img alt="PostgreSQL" height="64px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></td>
+    <td style="width: 10%;"><img alt="Laravel" height="64px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></td>
+    <td style="width: 10%;"><img alt="Vite" height="64px" src="https://vitejs.dev/logo.svg"></td>
+    <td style="width: 10%;"><img alt="Tailwind CSS" height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></td>
+  </tr>
+</table>
+
+<h4>Tools</h4>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td style="width: 10%;"><img alt="GitHub" height="64px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"></td>
+    <td style="width: 10%;"><img alt="Git" height="64px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
+    <td style="width: 10%;"><img alt="NPM" height="64px" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg"></td>
+    <td style="width: 10%;"><img alt="Sass" height="64px" src="https://cdn.worldvectorlogo.com/logos/sass-logo.svg"></td>
+    <td style="width: 10%;"><img alt="Postman" height="64px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></td>
+    <td style="width: 10%;"><img alt="Vercel" height="64px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg"></td>
+    <td style="width: 10%;"><img alt="Render" height="64px" src="https://render.com/favicon.ico"></td>
+    <td style="width: 10%;"><img alt="Netlify" height="64px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></td>
+
+  </tr>
+</table>
+
+<h4>Design Tools</h4>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td style="width: 10%;"><img alt="Canva" height="64px" src="https://cdn.worldvectorlogo.com/logos/canva.svg"></td>
+    <td style="width: 10%;"><img alt="Figma" height="64px" src="https://cdn.worldvectorlogo.com/logos/figma.svg"></td>
+    <td style="width: 10%;"><img alt="Sketch" height="64px" src="https://cdn.worldvectorlogo.com/logos/sketch-logo.svg"></td>
+    <td style="width: 10%;"><img alt="Adobe XD" height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></td>
+  </tr>
+</table>
+
+
 
 </div>
-
-
 
 
 
