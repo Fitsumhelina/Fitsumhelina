@@ -21,8 +21,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
 | ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![fitsum-helina](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark) |
 </div>
 
-<div align="center">
- 
+
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
