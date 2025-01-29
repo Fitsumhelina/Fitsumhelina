@@ -36,6 +36,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
     <td style="width: 10%;"><img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></td>
     <td style="width: 10%;"><img alt="TypeScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></td>
     <td style="width: 10%;"><img alt="Java" height="64px" src="https://cdn.worldvectorlogo.com/logos/java-2.svg"></td>
+   
   </tr>
 </table>
 
@@ -50,6 +51,8 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
     <td style="width: 10%;"><img alt="Laravel" height="64px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></td>
     <td style="width: 10%;"><img alt="Vite" height="64px" src="https://vitejs.dev/logo.svg"></td>
     <td style="width: 10%;"><img alt="Tailwind CSS" height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></td>
+       <td style="width: 10%;"><img alt="NPM" height="64px" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg"></td>
+    <td style="width: 10%;"><img alt="Sass" height="64px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></td>
   </tr>
 </table>
 
@@ -58,8 +61,6 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
   <tr>
     <td style="width: 10%;"><img alt="GitHub" height="64px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"></td>
     <td style="width: 10%;"><img alt="Git" height="64px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></td>
-    <td style="width: 10%;"><img alt="NPM" height="64px" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg"></td>
-    <td style="width: 10%;"><img alt="Sass" height="64px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></td>
     <td style="width: 10%;"><img alt="Postman" height="64px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></td>
     <td style="width: 10%;"><img alt="Thunder Client" height="64px" src="https://imgs.search.brave.com/17L-z3KHyIN5mlINlO7ex1vLWFkVkg_fS6lCnRxCpNw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2F0ay5kZXYvc3Rh/dGljLzg2ZjJmNDhi/OWIwZGQ5MDBiNDg5/MmY0OWY0YmJhYjgx/L2U0ZjA2L2xvZ28u/cG5n"></td>
     <td style="width: 10%;"><img alt="Vercel" height="64px" src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc"></td>
