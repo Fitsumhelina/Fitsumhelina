@@ -91,7 +91,9 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
 <p style="text-align: center; font-style: italic; margin-top: 20px;">Let's connect and make something amazing together! 🌟</p>
 
 <div style="display: flex; gap: 25px; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" height="50px" onclick="window.location.href='https://www.linkedin.com/in/fitsum-helina-57164828a/';" style="cursor: pointer;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="35px" onclick="window.location.href='https://www.linkedin.com/in/fitsum-helina-57164828a/';" style="cursor: pointer;" />
+ 
+ ![linkedin}("https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg")
   
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50px" onclick="window.location.href='mailto:dev.fitsum@gmail.com';" style="cursor: pointer;" />
   
