@@ -91,13 +91,18 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
 <p style="text-align: center; font-style: italic; margin-top: 20px;">Let's connect and make something amazing together! 🌟</p>
 
 <div style="display: flex; gap: 25px; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="35px" onclick="window.location.href='https://www.linkedin.com/in/fitsum-helina-57164828a/';" style="cursor: pointer;" />
+  <a href='https://www.linkedin.com/in/fitsum-helina-57164828a/'>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="35px" onclick="window.location.;" style="cursor: pointer;" />
+  </a>
  
- ![linkedin}("https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg")
+ <a href='mailto:dev.fitsum@gmail.com'>
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="35px" onclick="window.location.;" style="cursor: pointer;" />
+ </a>
+
+  <a href='https://t.me/fitsumhelina'>
+  <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="Telegram" height="35px" onclick="window.location.;" style="cursor: pointer;" />
+  </a>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50px" onclick="window.location.href='mailto:dev.fitsum@gmail.com';" style="cursor: pointer;" />
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="Telegram" height="50px" onclick="window.location.href='https://t.me/fitsumhelina';" style="cursor: pointer;" />
 </div>
 
 
