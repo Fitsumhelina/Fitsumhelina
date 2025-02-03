@@ -25,7 +25,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HcrUFu
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
-<h4>Programming Languages</h4>
+<h4> Languages</h4>
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td style="width: 10%;"><img alt="HTML" height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
