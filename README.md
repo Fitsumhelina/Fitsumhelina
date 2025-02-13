@@ -58,7 +58,6 @@ Want to know more? Check out my
     <td><img alt="Node.js" height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></td>
     <td><img alt="MongoDB" height="64px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></td>
     <td><img alt="PostgreSQL" height="64px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></td>
-    <td><img alt="Firebase" height="64px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></td>
     <td><img alt="Laravel" height="64px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></td>
     <td><img alt="Tailwind CSS" height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></td>
   </tr>
@@ -74,9 +73,12 @@ Want to know more? Check out my
     <td style="width: 10%;"><img alt="Vercel" height="64px" src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc"></td>
     <td style="width: 10%;"><img alt="Horku" height="64px" src="https://imgs.search.brave.com/TMj7RdxJPIsmJC9KaGH1M_YwCRg1rd4bHDWzJsqFIy4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvaGVyb2t1/LjBkMzUyNTgwYjU2/Mi5wbmc"></td>
     <td style="width: 10%;"><img alt="Netlify" height="64px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"></td>
-      <td style="width: 10%;"><img alt="Canva" height="64px" src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw"></td>
+</table>
+<table>
+   <td style="width: 10%;"><img alt="Canva" height="64px" src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw"></td>
     <td style="width: 10%;"><img alt="Figma" height="64px" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg"></td>
     <td style="width: 10%;"><img alt="Adobe Ps" height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"></td>
+  <td><img alt="Firebase" height="64px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></td>
   </tr>
 </table>
 
