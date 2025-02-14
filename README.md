@@ -37,7 +37,7 @@ Want to know more? Check out my
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-## Languages
+
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td><img alt="HTML" height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
@@ -49,8 +49,9 @@ Want to know more? Check out my
     <td><img alt="C++" height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg"></td>
   </tr>
 </table>
+<br>
 
-## Frameworks & Databases
+
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td><img alt="React" height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></td>
@@ -62,8 +63,8 @@ Want to know more? Check out my
     <td><img alt="Tailwind CSS" height="64px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></td>
   </tr>
 </table>
+<br>
 
-## Tools
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td style="width: 10%;"><img alt="GitHub" height="64px" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"></td>
