@@ -28,7 +28,7 @@ Want to know more? Check out my
 
 | My GitHub Statistics | Most Used Languages | Streaks |
 | --- | --- | --- |
-| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fitsumhelina&card_height=190)](https://git.io/streak-stats)
+| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark)
 
 </div>
 
