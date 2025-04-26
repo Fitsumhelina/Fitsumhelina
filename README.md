@@ -8,12 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
 </p>
 
-<h4 style="font-size: 20px;">
-  I'm a self-taught web app developer from Ethiopia, passionate about solving problems in a digital way. I enjoy bringing ideas to life through technology. I excel in communication and love collaborating with teams to make things happen. I'm constantly learning and expanding my skills.
-</h4>
+<p >
+  Hi, I'm a self-taught Fullstack developer 💻 passionate about solving real-world problems with digital solutions. Here's a quick snapshot of me:
+  
+  - 🌍 Based in <b>Ethiopia🇪🇹</b>, driven by a global perspective.
+  - 🛠️ Turning ideas into <b>functional </b>, <b>user-focused</b> web applications.
+  - 🤝 Strong communicator who thrives in collaborative teams.
+  - 🚀 Always learning, evolving, and pushing my technical limits.
+  - 💡 Motivated by impact — not just building apps, but solving real problems.
 
-Want to know more? Check out my 
-[resume](https://drive.google.com/file/d/1HcrUFutDbNgbuKjzZFIcfTr4KqwqyE3u/view?usp=sharing)!
+</p>
+
+  Want the full story? Check out my 
+  [resume](https://drive.google.com/file/d/1HcrUFutDbNgbuKjzZFIcfTr4KqwqyE3u/view?usp=sharing)!
+
+
 
 <br>
 
