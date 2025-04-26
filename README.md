@@ -39,7 +39,7 @@ Want to know more? Check out my
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td><img alt="HTML" height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></td>
-    <td><img alt="CSS" height="64px" src="https://imgs.search.brave.com/aEGiTSo22dl3ju1IuSx7-Ex0GTyZ0ELtoLb2u8BWqBY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9ODAwLGhl/aWdodD0sZml0PXNj/YWxlLWRvd24sZ3Jh/dml0eT1hdXRvLGZv/cm1hdD1hdXRvL2h0/dHBzOi8vZGV2LXRv/LXVwbG9hZHMuczMu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL2Fy/dGljbGVzLzdqMzUz/djh4ZTFoODYxdWM1/aTUzLnBuZw"></td>
+    <td><img alt="CSS" height="64px" src="https://github.com/CSS-Next/logo.css/raw/main/css.svg"></td>
     <td><img alt="JavaScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
     <td><img alt="TypeScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></td>
     <td><img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></td>
