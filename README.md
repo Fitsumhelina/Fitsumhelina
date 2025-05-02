@@ -91,7 +91,7 @@
 
 ---
 
-## Contact Me 🚀
+## Contact Me 👇
 
 🌟 I'm always open to collaboration and working on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on the socials below!
 <p align="center">
