@@ -44,9 +44,9 @@
     <td><img alt="CSS" height="64px" src="https://github.com/CSS-Next/logo.css/raw/main/css.svg"></td>
     <td><img alt="JavaScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></td>
     <td><img alt="TypeScript" height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></td>
-    <td><img alt="Python" height="64px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"></td>
+    <td><img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></td>
     <td><img alt="Java" height="64px" src="https://cdn.worldvectorlogo.com/logos/java-2.svg"></td>
-    <td><img alt="C++" height="64px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"></td>
+    <td><img alt="C++" height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg"></td>
   </tr>
 </table>
 <br>
