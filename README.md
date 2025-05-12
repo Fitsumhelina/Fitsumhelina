@@ -9,7 +9,7 @@
 </p>
 
 <p >
-  Hi, I'm a self-taught Fullstack developer 💻 passionate about solving real-world problems with digital solutions. Here's a quick snapshot of me:
+  Hi, I'm a self-taught Fullstack developer 💻 passionate about solving real-world problems with digital solutions.
 </p>
 
   Want the full story? Check out  
