@@ -47,16 +47,18 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="HTML" />
   <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" height="50" alt="CSS" />
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="50" alt="TypeScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python" />
   <img src="https://cdn.worldvectorlogo.com/logos/java-2.svg" height="50" alt="Java" />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" height="50" alt="Php />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="C++" />
-</p>
+ </p>
 
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="50" alt="React" />
   <img src="https://vitejs.dev/logo.svg" height="50" alt="Vite" />
+   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="50" alt="Next" />
+ <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="50" alt="TypeScript" />
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="50" alt="Tailwind CSS" />
 </p>
 
@@ -66,6 +68,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="50" alt="MongoDB" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="50" alt="Xampp" />
 </p>
 
 
