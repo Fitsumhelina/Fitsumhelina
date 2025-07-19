@@ -7,13 +7,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
 </p>
-<p >
-  Hi, I'm a self-taught Fullstack developer 💻 passionate about solving real-world problems with digital solutions.
-</p>
 
-  Want the full story? Check out  
-  [here](https://drive.google.com/file/d/1HcrUFutDbNgbuKjzZFIcfTr4KqwqyE3u/view?usp=sharing)!
-
+> I'm a self-tought Developer, and Pasionate about Back-End
 
 <br>
 
