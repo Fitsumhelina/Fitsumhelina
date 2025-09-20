@@ -95,7 +95,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="35px"/>
   </a>
   <a href='mailto:dev.fitsum@gmail.com'>
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="35px"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="35px"/>
   </a>
   <a href='https://t.me/fitsumhelina'>
     <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="35px"/>
