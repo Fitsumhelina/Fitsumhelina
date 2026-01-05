@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
 </p>
 
-> I'm a Self-tought Developer, and Passionate  about Back-end Development ,Database and DevOps !
+> I'm a Self-tought Developer, who is Passionate  about Back-end Development ,Database and DevOps !
 
 <br>
 
