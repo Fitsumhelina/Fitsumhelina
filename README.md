@@ -26,60 +26,24 @@
 
 </div>
 
----
 
- 
-
-
-## 🚀 Skills
 
 <div align="center">
   
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="HTML" />
-  <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" height="50" alt="CSS" />
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/java-2.svg" height="50" alt="Java" />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-6.svg" height="50" alt="Php />
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="C++" />
- </p>
+## 🚀 Skills
+
+| Category | Technologies |
+|--------|--------------|
+| **Frontend** | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="30"/> <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="30"/> |
+| **Backend** | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30"/> |
+| **Databases** | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/> |
+| **Design & UI** | <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/canva.svg" height="30"/> |
+| **DevOps & Hosting** | <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/heroku.svg" height="30"/> |
+| **Tools & Workflow** | <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="30"/> |
 
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="50" alt="React" />
-   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="50" alt="Next" />
- <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="50" alt="Tailwind CSS" />
-</p>
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="50" alt="Laravel" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="50" alt="MongoDB" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="50" alt="Postman" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="50" alt="Xampp" />
-</p>
-
-
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="50" alt="GitHub" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="50" alt="Git" />
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" height="50" alt="Firebase" />
-  <img src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" height="50" alt="cloudfare" />
-  <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" height="50" alt="digitalocean" />
-  <img src="https://imgs.search.brave.com/TMj7RdxJPIsmJC9KaGH1M_YwCRg1rd4bHDWzJsqFIy4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvaGVyb2t1/LjBkMzUyNTgwYjU2/Mi5wbmc" height="50" alt="Heroku" />
-  <img src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc" height="50" alt="Vercel" />
-</p>
-
-
-<p>
-  <img src="https://imgs.search.brave.com/gAmpRkVnmc780FDrCM1Y_kZV6HlXDCp6hj3Is2Rmnik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NjczMzYz/N2xvZ28tY2FudmEt/cG5nLnBuZw" height="50" alt="Canva" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="50" alt="Figma" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" alt="Adobe Photoshop" />
-</p>
 
 </div>
 
