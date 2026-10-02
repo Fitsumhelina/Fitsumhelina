@@ -39,11 +39,10 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/digital%20ocean-0055FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" />
+
 </p>
 
 ---
